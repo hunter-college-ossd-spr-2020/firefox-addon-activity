@@ -22,3 +22,26 @@ __6__. Describe three types of behaviors that violate the Mozilla Community Part
 
 __7__. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
+
+
+
+# Part 4
+
+__Name__ : __LASER CAT__
+
+__Download__ __Link__ : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the-laser-cat/?src=search)__  
+
+__1__. What is the homepage for the extension?
+  Homepage : __[IT'S A LASER CAT](https://www.benpurdy.com/laser-cat)__
+
+__2__. What is the license under which the extension is distributed?
+
+__3__. Can you find a code repository for this extension?
+
+__4__. Is the extension that you picked an open source project?
+
+__5__. Can you find information about how many different users contribute to this project? If so, specify how many.
+
+
+# Part 5
+
