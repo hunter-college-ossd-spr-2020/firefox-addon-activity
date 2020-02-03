@@ -1,2 +1,2 @@
 ### Part 3
-        
+        1. The purpose of the README.md file is to provide others with instructions concerning the software application. Typically, there's information about how to run the program, any bugs or patches that the program currently has, or even information about recent updates to the application.
