@@ -1,3 +1,5 @@
+# Team 3: Caitlin, Gillian, and Chi
+
 # Part 3
 
 
