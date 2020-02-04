@@ -7,8 +7,8 @@ Boubacar && Edmund
 
 1. What is the purpose of the `README.md` file? What kind of information should be included in it?
 
-   The 'README.md' file serves as an introduction to the nature of a project and its function. Its contents include but aren't
-   limited to:
+   The 'README.md' file serves as an introduction to the nature of a project and its function. Its
+   contents include but aren't limited to:
    *  Project title and description
    *  Project authors/maintainers
    *  System requirements for running the project
@@ -26,7 +26,10 @@ Boubacar && Edmund
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
-   Response here
+   One such repository contribution which fulfills the aforementioned condition would be answering
+   these questions. In general, creating and editing documentation on GitHub doesn't 
+   necessarily require writing code. The user simply reviews the Markdown syntax for text styling, 
+   creates a new file, edits said file however they like and then commits it to the GitHub master branch.
 
 5. What is the purpose of the `CODE_OF_CONDUCT.md` document?
 
