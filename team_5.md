@@ -5,5 +5,7 @@
 4. One particular type of contribution that one can make to the MDN WebExtension repository that doesn't require writing any code, but is listed in their CONTRIBUTING.md file, is to write a brand-new example that highlights and showcases a particular WebExtension API that currently has no examples.  
 5.   
 6.   
-7.  
+7.   
+
+### Part 4  
 
