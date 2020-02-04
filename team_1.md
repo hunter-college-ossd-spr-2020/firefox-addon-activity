@@ -32,12 +32,24 @@ PART FOUR
 
 **1. What is the homepage for the extension?**
 
+LastPass: https://lastpass.com/?ac=1
+
 **2. What is the license under which the extension is distributed?**
+
+Its software license is Freemium.
+https://lastpass.com/docs/licenses.php This link contains all third party licensess that LastPass uses.
 
 **3. Can you find a code repository for this extension?**
 
+https://github.com/lastpass
+
 **4. Is the extension that you picked an open source project?**
 
+It's not an open source project.
+
 **5. Can you find information about how many different users contribute to this project? If so, specify how many.**
+
+I can't find information about how many different users contribute to this project.
+
 
 
