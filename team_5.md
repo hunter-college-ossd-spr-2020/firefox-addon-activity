@@ -10,4 +10,4 @@
 ### Part 4  
 Adblock Plus: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/  
 1. Our favorite extension is Adblock Plus because it is an amazing product that allows you to customize your web experience in many differet ways, and most importantly blocks annoying ads on almost any website that you will visit. The link to Adblock Plus' homepage is: https://adblockplus.org/  
-2.    
+2. The license under which Adblock Plus is distributed is the GNU General Public License Version 3. The license states that end users have the "freedom to run, study, share, and modify the software" according to the GNU General Public License wikipedia page.  
