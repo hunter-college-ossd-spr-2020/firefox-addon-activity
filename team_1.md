@@ -49,7 +49,7 @@ It's not an open source project.
 
 **5. Can you find information about how many different users contribute to this project? If so, specify how many.**
 
-I can't find information about how many different users contribute to this project.
+I can't find information about how many different users contribute to this project, but I saw around 50 contributors in its code repository.
 
 
 
