@@ -8,4 +8,5 @@
 7.   
 
 ### Part 4  
-
+1. Our favorite extension is Adblock Plus because it is an amazing product that allows you to customize your web experience in many differet ways, and most importantly blocks annoying ads on almost any website that you will visit. The link to Adblock Plus' homepage is: https://adblockplus.org/  
+2.    
