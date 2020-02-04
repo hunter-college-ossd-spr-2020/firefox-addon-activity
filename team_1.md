@@ -25,6 +25,7 @@ One way to contribute without needing to write any code is maintaining a FAQ or 
 **5. What is the purpose of the CODE_OF_CONDUCT.md document?**
 
 **6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.**  
+
 Three types of behaviors not tolerated, according to the Mozilla Community Participation Guidelines, are violence (or threats of violence), derogatory comments that are used for the sole purpose of discrimination, and personal attacks on individals.
 
 **7. If a person working with the content of this repository runs into problems or has questions, what can they do?**
