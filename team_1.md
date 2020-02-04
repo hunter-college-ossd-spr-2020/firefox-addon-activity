@@ -20,9 +20,13 @@ A CONTRIBUTING.md file provides potential project contributiors with a short gui
 
 **4. Describe one type of contribution to this repository that does not require writing any code.**
 
+One way to contribute without needing to write any code is maintaining a FAQ or HOWTO document.
+
 **5. What is the purpose of the CODE_OF_CONDUCT.md document?**
 
-**6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.**
+**6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.**  
+
+Three types of behaviors not tolerated, according to the Mozilla Community Participation Guidelines, are violence (or threats of violence), derogatory comments that are used for the sole purpose of discrimination, and personal attacks on individals.
 
 **7. If a person working with the content of this repository runs into problems or has questions, what can they do?**
 
