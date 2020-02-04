@@ -7,8 +7,15 @@ Boubacar && Edmund
 
 1. What is the purpose of the `README.md` file? What kind of information should be included in it?
 
-   Response here
-
+   The 'README.md' file serves as an introduction to the nature of a project and its function. Its contents include but aren't
+   limited to:
+   *  Project title and description
+   *  Project authors/maintainers
+   *  System requirements for running the project
+   *  Instructions for project installation, testing and deployment
+   *  Guidelines for making __meaningful__ project contributions
+   *  A link to the license
+   
 2. What is the purpose of the `LICENSE` file? Does it need to be in a repository?
 
    Response here
