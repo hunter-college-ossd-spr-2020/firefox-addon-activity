@@ -9,7 +9,7 @@
     * Making derogatory comments of someone's culture or religion is a direct violation of Mozilla's Community Participation Guidleines on `Appreciating and Accomodating Our Similarities and Differences` as it discriminates the participants based on their beliefs and customs. 
     * Sexualized comments, jokes or imagery of any kind (including any kind of physical touching without permission) falls under Mozilla's `Behaviors That Will Not Be Tolerated` category because it creates an uncomfortable and unprofessional environment that not only violates an individual's rights, but promotes a toxic atmosphere to the community. 
     * Being disruptive by causing hostility, or 'talking over' and heckling speakers at events, talks, presentations, forums, and/or meetings will not be tolerated under *Mozilla's Community Participation Guidelines*. Encouraging or influencing others to participant in a similar disruptive behavior will also not be tolerated as it is counterproductive and creates a hostile community.
-9.   
+7. If one encounters a problem, they can navigate to the README file where pertinent instructions and information for the program are recorded. However, in the case the README file does not resolve the issue, then they can attempt one of the three following options: file a bug, email the dev-addons mailing list, or contact the WebExtentions team.
 
 ## Part 4  
 Adblock Plus: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/  
