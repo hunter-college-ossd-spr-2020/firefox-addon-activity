@@ -66,11 +66,12 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
    
 2. What is the license under which the extension is distributed?
 
-   The extension is distributed under version 2.0 of the Mozilla Public License.
+   The extension is distributed under version 2.0 of the [Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/).
    
 3. Can you find a code repository for this extension?
 
-   Response here
+   Click [here](https://github.com/onlineconvert) for the desired code repository. Note that there are several
+   repositories in different programming languages at the end of this link.
    
 4. Is the extension that you picked an open source project?
 
@@ -78,7 +79,7 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
    
 5. Can you find information about how many different users contribute to this project? If so, specify how many.
 
-   Response here
+   The number of contributors varies from repository to repository. There are at most 10 contributors as of the most recent repository.
 
 # Part 5
 
