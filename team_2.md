@@ -19,3 +19,4 @@
 5. While it seems possible to contribute to the extension, particularly on the language translation front, there are 13 company contributors that work on the extension.
 
 ## Part 5:
+**Link to our extension repository**: https://github.com/hunter-college-ossd-spr-2020/Team_2-In-Focus-Extension
