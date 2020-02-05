@@ -21,7 +21,6 @@ Adblock Plus: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
 4.  Yes, Adblock Plus is a <strong> free and open source </strong> browser extension developed by the German software development company Wladimir Palant according to the extension's product page.
 5.  According to the Adblock Plus repository mentioned above, the project currently has <strong> 10 distinct users </strong> contributing towards the project. 
     * In the original deprecated version of Adblock Plus for Firefox and other gecko-based browers, there were 13 distinct users contributing towards the project, according to the GitHub repository page.  
-6.
 
 ### Part 5  
 Link to our extension's repo: https://github.com/hunter-college-ossd-spr-2020/Team_5BackgroundColorChangerExtension  
