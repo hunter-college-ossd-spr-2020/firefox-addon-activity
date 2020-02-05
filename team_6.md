@@ -22,7 +22,11 @@ Boubacar && Edmund
 
 3. What is the purpose of the `CONTRIBUTING.md` file?
 
-   Response here
+   The `CONTRIBUTING.md` file provides guidelines on the ways people can contribute and how these contributions should be
+   structured. This file helps keep the repository codebase consistent and organized. For example, in the webextensions-
+   examples repo, types of contributions are listed (such as creating, extending, or translating an example; or fixing a 
+   bug). The file also mentions what code style should be used in a contribution, and how an example directory should be 
+   structured.
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
