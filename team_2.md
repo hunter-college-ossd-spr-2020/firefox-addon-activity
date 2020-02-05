@@ -9,10 +9,13 @@
 7. Anyone who has trouble with the contents of the repository or who has further questions may either file a bug (if the circumstances warrant it), email the mailing list for add-ons development, or reach out to Mozilla's WebExtensions team.
 
 ## Part 4:
-1.
-2.
-3.
-4.
-5.
+**Our Favorite Extension:** AdBlock for Firefox
+**Link:** https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/
+
+1. The homepage is: https://getadblock.com
+2. The extension is distributed under the GNU General Public License, version 3.0.
+3. The code is not hosted on a popular VCS website like Github, but instead there is a page for the releases: http://code.getadblock.com/releases/
+4. Yes, it is an open source project, as it is distributed under the aforementioned license, which is an OSI approved FOSS license, see: https://opensource.org/licenses/gpl-license 
+5. While it seems possible to contribute to the extension, particularly on the language translation front, there are 13 company contributors that work on the extension.
 
 ## Part 5:
