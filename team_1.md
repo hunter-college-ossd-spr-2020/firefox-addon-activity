@@ -58,4 +58,8 @@ I can't find information about how many different users contribute to this proje
 
 PART FIVE
 ==============
-https://github.com/hunter-college-ossd-spr-2020/Team_1_add_on
+Open Course Website: 
+https://github.com/hunter-college-ossd-spr-2020/Team_1_open_course_website
+
+When user clicks on the button, it will open the course website for this course (CSci 395.86).
+It also adds double purple border and pink background to all webpages.
