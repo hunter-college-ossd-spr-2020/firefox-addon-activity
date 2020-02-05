@@ -37,7 +37,14 @@ Boubacar && Edmund
 
 6. Describe three types of behaviors that violate the _Mozilla Community Participation Guidelines_.
 
-   Three types of behavior vehemently discouraged by the Mozilla Community Participation Guidelines are violence and threats      of violence against others, derogatory language of any kind and in any context, and gratuitous sexual attention or physical contact. 
+   Three types of behavior vehemently discouraged by the Mozilla Community Participation Guidelines are
+   violence and threats of violence against others, derogatory language of any kind and in any context,
+   and gratuitous sexual attention or physical contact. Violence could include damaging foreign property,
+   encouraging others to commit suicide, and blackmail. Derogatory language can range from purposefully
+   misidentifying someone's gender to belittling a person's entire ethnic group (ex: People of Hispanic
+   descent are compared to frogs in the context of behavior (think about it)). Gratuitous sexual attention
+   and contact could include gazing at a person's sensitive areas for extended periods of time, groping, and
+   lewd messages.
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
