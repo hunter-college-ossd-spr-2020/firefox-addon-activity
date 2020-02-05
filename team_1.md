@@ -1,5 +1,5 @@
 
-Team 1: Liulan Zheng, Jared Wilson
+Team 1: Liulan Zheng, Jared Wilson, Chris Morales
 -------------
 
 PART THREE
