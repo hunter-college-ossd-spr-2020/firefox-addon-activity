@@ -46,13 +46,13 @@ Boubacar && Edmund
    and gratuitous sexual attention or physical contact. Violence could include damaging people and property,
    encouraging others to commit suicide, and blackmail. Derogatory language can range from purposefully
    misidentifying someone's gender to belittling a person's entire ethnic group (ex: People of Hispanic
-   descent are compared to frogs in the context of behavior (think about it)). Gratuitous sexual attention
+   descent are compared to frogs in the context of migration patterns (think about it)). Gratuitous sexual attention
    and contact could include gazing at a person's sensitive areas for extended periods of time, groping, and
    lewd messages.
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
-   Response here
+   Anyone experiencing problems or confusion
   
 # Part 4
 
