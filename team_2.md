@@ -9,7 +9,7 @@
 7. Anyone who has trouble with the contents of the repository or who has further questions may either file a bug (if the circumstances warrant it), email the mailing list for add-ons development, or reach out to Mozilla's WebExtensions team.
 
 ## Part 4:
-**Our Favorite Extension:** AdBlock for Firefox
+**Our Favorite Extension:** AdBlock for Firefox  
 **Link:** https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/
 
 1. The homepage is: https://getadblock.com
