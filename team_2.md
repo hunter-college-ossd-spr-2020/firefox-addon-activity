@@ -15,7 +15,7 @@
 1. The homepage is: https://getadblock.com
 2. The extension is distributed under the GNU General Public License, version 3.0.
 3. The code is not hosted on a popular VCS website like Github, but instead there is a page for the releases: http://code.getadblock.com/releases/
-4. Yes, it is an open source project, as it is distributed under the aforementioned license, which is an OSI approved FOSS license, see: https://opensource.org/licenses/gpl-license 
+4. Yes, it is an open source project, as you may inspect the code directly and it is distributed under the aforementioned license, which is an OSI approved FOSS license, see: https://opensource.org/licenses/gpl-license 
 5. While it seems possible to contribute to the extension, particularly on the language translation front, there are 13 company contributors that work on the extension.
 
 ## Part 5:
