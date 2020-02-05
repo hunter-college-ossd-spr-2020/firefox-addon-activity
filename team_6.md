@@ -7,7 +7,7 @@ Boubacar && Edmund
 
 1. What is the purpose of the `README.md` file? What kind of information should be included in it?
 
-   The 'README.md' file serves as an introduction to the nature of a project and its function. Its
+   The `README.md` file serves as an introduction to the nature of a project and its function. Its
    contents include but aren't limited to:
    *  Project title and description
    *  Project authors/maintainers
@@ -52,7 +52,9 @@ Boubacar && Edmund
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
-   Anyone experiencing problems or confusion
+   Anyone experiencing problems or confusion can review the `README.md` file for further clarification.
+   If that proves insufficient, they can file a bug, email the dev-addons mailing list or contact the
+   WebExtensions team in hopes of resolving the issue.
   
 # Part 4
 
@@ -60,7 +62,7 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
 
 1. What is the homepage for the extension?
 
-   Response here
+   Click [here](https://www.online-convert.com/) for the homepage.
    
 2. What is the license under which the extension is distributed?
 
@@ -72,7 +74,7 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
    
 4. Is the extension that you picked an open source project?
 
-   The aforementioned extension is an open source project.
+   The aforementioned extension is an open source project, given the nature of the license.
    
 5. Can you find information about how many different users contribute to this project? If so, specify how many.
 
