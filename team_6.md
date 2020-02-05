@@ -18,15 +18,11 @@ Boubacar && Edmund
    
 2. What is the purpose of the `LICENSE` file? Does it need to be in a repository?
 
-   Response here
+   The 'LICENSE' file contains the license for the project. Said license determines what can and can't be done with the project.
 
 3. What is the purpose of the `CONTRIBUTING.md` file?
 
-   The `CONTRIBUTING.md` file provides guidelines on the ways people can contribute and how these contributions should be
-   structured. This file helps keep the repository codebase consistent and organized. For example, in the webextensions-
-   examples repo, types of contributions are listed (such as creating, extending, or translating an example; or fixing a 
-   bug). The file also mentions what code style should be used in a contribution, and how an example directory should be 
-   structured.
+   Response here
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
@@ -43,7 +39,7 @@ Boubacar && Edmund
 
    Three types of behavior vehemently discouraged by the Mozilla Community Participation Guidelines are
    violence and threats of violence against others, derogatory language of any kind and in any context,
-   and gratuitous sexual attention or physical contact. Violence could include damaging foreign property,
+   and gratuitous sexual attention or physical contact. Violence could include damaging people and property,
    encouraging others to commit suicide, and blackmail. Derogatory language can range from purposefully
    misidentifying someone's gender to belittling a person's entire ethnic group (ex: People of Hispanic
    descent are compared to frogs in the context of behavior (think about it)). Gratuitous sexual attention
