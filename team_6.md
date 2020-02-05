@@ -64,7 +64,7 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
    
 2. What is the license under which the extension is distributed?
 
-   Response here
+   The extension is distributed under version 2.0 of the Mozilla Public License.
    
 3. Can you find a code repository for this extension?
 
@@ -82,4 +82,4 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
 
 Look Ma, No Tutorial! 
 
-Team Extension Repo: Coming soon
+Team Extension Repo: [Blog Navigator](https://github.com/hunter-college-ossd-spr-2020/hunter-ossd-blog-navigator)
