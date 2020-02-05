@@ -13,4 +13,4 @@ Adblock Plus: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
 2. The license under which Adblock Plus is distributed is the GNU General Public License Version 3. The license states that end users have the "freedom to run, study, share, and modify the software" according to the GNU General Public License wikipedia page.  
 
 ### Part 5
-Link to our entension's repo: https://github.com/hunter-college-ossd-spr-2020/Team_5BackgroundColorChangerExtension  
+Link to our extension's repo: https://github.com/hunter-college-ossd-spr-2020/Team_5BackgroundColorChangerExtension  
