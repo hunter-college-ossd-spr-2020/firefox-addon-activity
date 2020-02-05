@@ -18,11 +18,15 @@ Boubacar && Edmund
    
 2. What is the purpose of the `LICENSE` file? Does it need to be in a repository?
 
-   The 'LICENSE' file contains the license for the project. Said license determines what can and can't be done with the project.
+   The 'LICENSE' file contains the license for the project. Said license determines what can and
+   can't be done with the project.
 
 3. What is the purpose of the `CONTRIBUTING.md` file?
 
-   Response here
+   The 'CONTRIBUTING.md' file shows would-be contributors the types of contributions needed,
+   the specific protocol used for contributing, acceptable forms contributions should have, and 
+   how the contribution process works. It might include links to coding style guidelines for example
+   or other documentation that a contributor needs to read before working on the project. 
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
