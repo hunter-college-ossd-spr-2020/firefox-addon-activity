@@ -1,51 +1,52 @@
-# Team 3: Caitlin, Gillian, and Chi
+## Team 3: Caitlin, Gillian, and Chi
 
-# Part 3
+### Part 3
 
+1. *What is the purpose of the README.md file? What kind of information should be included in it?*
 
+    The purpose of the README.md file is to provide an overview of the repository, which is about WebExtensions in this case. This file should include general information about the repository, such as instructions for how to use the repository, how to install an example extension, contact information, and other relevant information.
 
-__1__. What is the purpose of the README.md file? What kind of information should be included in it?
+2. *What is the purpose of the LICENSE file? Does it need to be in a repository?*
 
-The purpose of the README.md file is to provide an overview of the repository, which is about WebExtensions in this case. This file should include general information about the repository, such as instructions for how to use the repository, how to install an example extension, contact information, and other relevant information.
+    The purpose of the LICENSE file is to make the repository available as open source software. The file is not required to be in the repository. Information about the license may be included in the README.md. However, it is considered a best practice to include the license file in the repository.
 
-__2__. What is the purpose of the LICENSE file? Does it need to be in a repository?
-
- The purpose of the LICENSE file is to make the repository available as open source software. The file is not required to be in the repository. Information about the license may be included in the README.md. However, it is considered a best practice to include the license file in the repository.
-
-__3__. What is the purpose of the CONTRIBUTING.md file?
+3. *What is the purpose of the CONTRIBUTING.md file?*
 
 
-__4__. Describe one type of contribution to this repository that does not require writing any code.
+4. *Describe one type of contribution to this repository that does not require writing any code.*
 
 
-__5__. What is the purpose of the CODE_OF_CONDUCT.md document?
+5. *What is the purpose of the CODE_OF_CONDUCT.md document?
 
 
-__6__. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
+6. *Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.*
 
 
-__7__. If a person working with the content of this repository runs into problems or has questions, what can they do?
+7. *If a person working with the content of this repository runs into problems or has questions, what can they do?*
 
 
 
 
-# Part 4
+### Part 4
 
-__Name__ : __LASER CAT__
+Name: __LASER CAT__
 
-__Download__ __Link__ : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the-laser-cat/?src=search)__  
+Download Link : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the-laser-cat/?src=search)__  
 
-__1__. What is the homepage for the extension?
-  Homepage : __[IT'S A LASER CAT](https://www.benpurdy.com/laser-cat)__
+1. *What is the homepage for the extension?*
+   
+   __[IT'S A LASER CAT](https://www.benpurdy.com/laser-cat)__
 
-__2__. What is the license under which the extension is distributed?
-
-__3__. Can you find a code repository for this extension?
-
-__4__. Is the extension that you picked an open source project?
-
-__5__. Can you find information about how many different users contribute to this project? If so, specify how many.
+2. *What is the license under which the extension is distributed?*
 
 
-# Part 5
+3. *Can you find a code repository for this extension?*
+ 
+
+4. *Is the extension that you picked an open source project?*
+
+5. *Can you find information about how many different users contribute to this project? If so, specify how many.*
+
+
+### Part 5
 
