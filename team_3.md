@@ -41,9 +41,10 @@ Download Link : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the
 
 
 3. *Can you find a code repository for this extension?*
- 
+    No.
 
 4. *Is the extension that you picked an open source project?*
+    No.
 
 5. *Can you find information about how many different users contribute to this project? If so, specify how many.*
 
