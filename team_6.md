@@ -18,22 +18,22 @@ Boubacar && Edmund
    
 2. What is the purpose of the `LICENSE` file? Does it need to be in a repository?
 
-   The `LICENSE` file contains the license for the project. Said license determines what can and
-   can't be done with the project.
+   The `LICENSE` file contains the license for the project and determines what can and
+   can't be done with the project, including distribution, warranties, liability and other legal issues/permissions.
 
 3. What is the purpose of the `CONTRIBUTING.md` file?
 
-   The `CONTRIBUTING.md` file shows would-be contributors the types of contributions needed,
-   the specific protocol used for contributing, acceptable forms contributions should have, and 
-   how the contribution process works. It might include links to coding style guidelines 
-   or other documentation that a contributor needs to read before working on the project. 
+   The `CONTRIBUTING.md` file shows the specific protocol used in the project for contributing,
+   acceptable forms contributions should have, how the contribution process works, and the types of contributions needed. 
+   It might also include links to coding style guidelines or other documentation that a contributor needs to read before 
+   working on the project. 
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
-   One such repository contribution which fulfills the aforementioned condition would be answering
-   these questions. In general, creating and editing documentation on GitHub doesn't 
-   necessarily require writing code. The user simply reviews the Markdown syntax for text styling, 
-   creates a new file, edits said file however they like and then commits it to the master branch.
+   One such repository contribution would be adding documentation. This could be code comments or instructions, a tutorial,
+   or walkthrough. In general, creating and editing documentation on GitHub doesn't necessarily require writing code. 
+   The user simply reviews the Markdown syntax for text styling, creates a new file in a fork, edits said file however they 
+   like and then after committing it making a pull request to the original repo's master branch.
 
 5. What is the purpose of the `CODE_OF_CONDUCT.md` document?
 
@@ -45,16 +45,15 @@ Boubacar && Edmund
    violence and threats of violence against others, derogatory language of any kind and in any context,
    and gratuitous sexual attention or physical contact. Violence could include damaging people and property,
    encouraging others to commit suicide, and blackmail. Derogatory language can range from purposefully
-   misidentifying someone's gender to belittling a person's entire ethnic group (ex: People of Hispanic
-   descent are compared to frogs in the context of migration patterns (think about it)). Gratuitous sexual attention
+   misidentifying someone's gender to belittling a person's entire ethnic group. Gratuitous sexual attention
    and contact could include gazing at a person's sensitive areas for extended periods of time, groping, and
    lewd messages.
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
    Anyone experiencing problems or confusion can review the `README.md` file for further clarification.
-   If that proves insufficient, they can file a bug, email the dev-addons mailing list or contact the
-   WebExtensions team in hopes of resolving the issue.
+   If that proves insufficient, they can also file a bug/issue. The bottom of the README mentions that people 
+   who need help can email the dev-addons mailing list or contact the WebExtensions team.
   
 # Part 4
 
@@ -88,4 +87,4 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
 
 Look Ma, No Tutorial! 
 
-Team Extension Repo: [Hunter OSSD Blog Navigator](https://github.com/hunter-college-ossd-spr-2020/hunter-ossd-blog-navigator)
+## Team Extension Repo: [Hunter OSSD Blog Navigator](https://github.com/hunter-college-ossd-spr-2020/hunter-ossd-blog-navigator)
