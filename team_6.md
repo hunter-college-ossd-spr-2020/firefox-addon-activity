@@ -3,7 +3,7 @@ Boubacar && Edmund
 
 # Part 3
 
-[MDN WebExtension repository](https://github.com/mdn/webextensions-examples) exploration:
+## [MDN WebExtension repository](https://github.com/mdn/webextensions-examples) exploration:
 
 1. What is the purpose of the `README.md` file? What kind of information should be included in it?
 
@@ -57,7 +57,7 @@ Boubacar && Edmund
   
 # Part 4
 
-Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Convert](https://addons.mozilla.org/en-US/firefox/addon/online-convert/?src=search)
+## Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Convert](https://addons.mozilla.org/en-US/firefox/addon/online-convert/?src=search)
 
 1. What is the homepage for the extension?
 
@@ -85,6 +85,7 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
 
 # Part 5
 
-Look Ma, No Tutorial! 
-
 ## Team Extension Repo: [Hunter OSSD Blog Navigator](https://github.com/hunter-college-ossd-spr-2020/hunter-ossd-blog-navigator)
+
+(Look Ma, No Tutorial!)
+
