@@ -16,7 +16,7 @@
 4. *Describe one type of contribution to this repository that does not require writing any code.*
 
 
-5. *What is the purpose of the CODE_OF_CONDUCT.md document?
+5. *What is the purpose of the CODE_OF_CONDUCT.md document?*
 
 
 6. *Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.*
