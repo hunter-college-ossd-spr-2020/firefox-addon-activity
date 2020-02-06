@@ -21,7 +21,7 @@ A CONTRIBUTING.md file provides potential project contributiors with a short gui
 One way to contribute without needing to write any code is maintaining a FAQ or HOWTO document. You can also keep any cited references and informational sources that are used up to date by continuously checking them. 
 
 **5. What is the purpose of the CODE_OF_CONDUCT.md document?**
-Due to the many freedoms that open scource provides the code of conduct is used to lay out any rules and prevent any possible abuses or exploits of the system. It is an agreement to uphold the work of others as well as the stability of the application or program. This is because the nature of open source does not completely protect against possible vandalism.
+Due to the many freedoms that open scource provides the code of conduct is used to lay out any rules and prevent any possible abuses or misdeads between contributers and users. It is an agreement to uphold a safe environment for contributers as well as the stability of the application or program. This is because the nature of open source does not necessarily protect against the possibility of personal attacks or interpersonal issues.  
 
 **6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.**  
 
