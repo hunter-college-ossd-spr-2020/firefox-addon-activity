@@ -16,6 +16,7 @@
 
 4. *Describe one type of contribution to this repository that does not require writing any code.*
 
+    One type of contribution to this repository that does not require writing any code includes suggesting new features or drawing attention to bugs that can be fixed. In the README.md, the MDN team at Mozilla express that they are open to, and encourage, new ideas and contributions!
 
 5. *What is the purpose of the CODE_OF_CONDUCT.md document?*
 
@@ -27,7 +28,7 @@
 
 7. *If a person working with the content of this repository runs into problems or has questions, what can they do?*
 
-
+    If a person working with the content of this repository runs into problems or has questions, they have various options. The first option would be to email the dev-addons mailing list or contact the WebExtensions team in the #webextensions IRC channel on irc.mozilla.org. Other options may include asking a friend for help if the friend has used this repository before or even using a search engine.
 
 
 ### Part 4
@@ -58,7 +59,6 @@ Download Link : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the
 
 ### Part 5
 
-    *Our own Firefox Add-On Extension!*
-    
-    https://github.com/hunter-college-ossd-spr-2020/Team3_FunBackgroundandColorChange
-
+   *Our own Firefox Add-On Extension!*
+   
+   https://github.com/hunter-college-ossd-spr-2020/Team3_FunBackgroundandColorChange
