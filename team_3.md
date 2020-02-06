@@ -6,9 +6,11 @@
 
 __1__. What is the purpose of the README.md file? What kind of information should be included in it?
 
+The purpose of the README.md file is to provide an overview of the repository, which is about WebExtensions in this case. This file should include general information about the repository, such as instructions for how to use the repository, how to install an example extension, contact information, and other relevant information.
 
 __2__. What is the purpose of the LICENSE file? Does it need to be in a repository?
 
+ The purpose of the LICENSE file is to make the repository available as open source software. The file is not required to be in the repository. Information about the license may be included in the README.md. However, it is considered a best practice to include the license file in the repository.
 
 __3__. What is the purpose of the CONTRIBUTING.md file?
 
