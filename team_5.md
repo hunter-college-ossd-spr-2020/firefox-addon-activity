@@ -23,4 +23,4 @@ Adblock Plus: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
     * In the original deprecated version of Adblock Plus for Firefox and other gecko-based browers, there were 13 distinct users contributing towards the project, according to the GitHub repository page.  
 
 ### Part 5  
-Link to our extension's repo: https://github.com/hunter-college-ossd-spr-2020/Team_5BackgroundColorChangerExtension  
+Link to our extension's repo: https://github.com/hunter-college-ossd-spr-2020/Team_5TextColorEditor  
