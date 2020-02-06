@@ -64,3 +64,6 @@ Yes, it states so in the LICENSE.txt file. Therefore, uBlock Origin is a free an
 **5. Can you find information about how many different users contribute to this project? If so, specify how many.**
 
 GitHub says that this extension has 81 unique contributors. 
+
+# Part 5
+[Here](https://github.com/hunter-college-ossd-spr-2020/team_7_seamless_browsing) is the link to the repository. 
