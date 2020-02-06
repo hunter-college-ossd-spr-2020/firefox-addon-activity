@@ -15,12 +15,20 @@ Thretening violence, using derogatory language and being disruptive.
 ## 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 File a bug or email WebExtensions team.
 
-# Part 4: Our favorite extension-
+# Part 4:
+Our favorite extension: [Forcastfox](https://addons.mozilla.org/en-US/firefox/addon/forecastfox-fix-version/)
 
 ## 1. What is the homepage for the extension?
+[Homepage link](http://www.s3blog.org/forecastfox.html)
 ## 2. What is the license under which the extension is distributed?
+Mozilla Public License, version 2.0
 ## 3. Can you find a code repository for this extension?
+Could not find the repository on github.
 ## 4. Is the extension that you picked an open source project?
+Yes, because MPL-2.0 is an OSI approved License.
 ## 5. Can you find information about how many different users contribute to this project? If so, specify how many.
+Could not find how many users contributed to the project.
 
-# Part 5: Link to our own extension repo-
+# Part 5:
+Our own repo: [Newsfeed Extension](https://github.com/hunter-college-ossd-spr-2020/team-8_newsfeed-extention/)
+

@@ -1,49 +1,64 @@
-# Team 3: Caitlin, Gillian, and Chi
+## Team 3: Caitlin, Gillian, and Chi
 
-# Part 3
+### Part 3
 
+1. *What is the purpose of the README.md file? What kind of information should be included in it?*
 
+    The purpose of the README.md file is to provide an overview of the repository, which is about WebExtensions in this case. This file should include general information about the repository, such as instructions for how to use the repository, how to install an example extension, contact information, and other relevant information.
 
-__1__. What is the purpose of the README.md file? What kind of information should be included in it?
+2. *What is the purpose of the LICENSE file? Does it need to be in a repository?*
 
+    The purpose of the LICENSE file is to make the repository available as open source software. The file is not required to be in the repository. Information about the license may be included in the README.md. However, it is considered a best practice to include the license file in the repository.
 
-__2__. What is the purpose of the LICENSE file? Does it need to be in a repository?
+3. *What is the purpose of the CONTRIBUTING.md file?*
 
+    The purpose of the CONTRIBUTING.md file is to let other people who wanted to contribute the work to understand what they can do in order to bring improvements to the project.
 
-__3__. What is the purpose of the CONTRIBUTING.md file?
+4. *Describe one type of contribution to this repository that does not require writing any code.*
 
+    One type of contribution to this repository that does not require writing any code includes suggesting new features or drawing attention to bugs that can be fixed. In the README.md, the MDN team at Mozilla express that they are open to, and encourage, new ideas and contributions!
 
-__4__. Describe one type of contribution to this repository that does not require writing any code.
+5. *What is the purpose of the CODE_OF_CONDUCT.md document?*
 
+    The purpose of the Code\_Of\_Conduct.md is to let each and every online developer knows the guidelines when they contribute to other people's works or creating their personal projects. The guidelines include Mozilla Community Participation Guidelines and Developer Etiquette Guidelines.
 
-__5__. What is the purpose of the CODE_OF_CONDUCT.md document?
+6. *Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.*
 
+    Three types of behaviors that violate the Mozilla Community Participation Guidelines are Violence and Threats of Violence, Personal Attacks, and Derogatory Language, which include threatening on other people's personal identifying information or insulting others or  saying harmful languages.
 
-__6__. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
+7. *If a person working with the content of this repository runs into problems or has questions, what can they do?*
 
-
-__7__. If a person working with the content of this repository runs into problems or has questions, what can they do?
-
-
-
-
-# Part 4
-
-__Name__ : __LASER CAT__
-
-__Download__ __Link__ : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the-laser-cat/?src=search)__  
-
-__1__. What is the homepage for the extension?
-  Homepage : __[IT'S A LASER CAT](https://www.benpurdy.com/laser-cat)__
-
-__2__. What is the license under which the extension is distributed?
-
-__3__. Can you find a code repository for this extension?
-
-__4__. Is the extension that you picked an open source project?
-
-__5__. Can you find information about how many different users contribute to this project? If so, specify how many.
+    If a person working with the content of this repository runs into problems or has questions, they have various options. The first option would be to email the dev-addons mailing list or contact the WebExtensions team in the #webextensions IRC channel on irc.mozilla.org. Other options may include asking a friend for help if the friend has used this repository before or even using a search engine.
 
 
-# Part 5
+### Part 4
 
+Name: __LASER CAT__
+
+Download Link : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the-laser-cat/?src=search)__  
+
+1. *What is the homepage for the extension?*
+   
+   __[IT'S A LASER CAT](https://www.benpurdy.com/laser-cat)__
+
+2. *What is the license under which the extension is distributed?*
+
+    It is under All Rights Reserved license on the home page.
+
+3. *Can you find a code repository for this extension?*
+
+    No.
+
+4. *Is the extension that you picked an open source project?*
+
+    No.
+
+5. *Can you find information about how many different users contribute to this project? If so, specify how many.*
+
+    No, there is only one developer that contributes to this project.
+
+### Part 5
+
+   *Our own Firefox Add-On Extension!*
+   
+   https://github.com/hunter-college-ossd-spr-2020/Team3_FunBackgroundandColorChange
