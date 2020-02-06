@@ -12,15 +12,18 @@
 
 3. *What is the purpose of the CONTRIBUTING.md file?*
 
+    The purpose of the CONTRIBUTING.md file is to let other people who wanted to contribute the work to understand what they can do in order to bring improvements to the project.
 
 4. *Describe one type of contribution to this repository that does not require writing any code.*
 
 
 5. *What is the purpose of the CODE_OF_CONDUCT.md document?*
 
+    The purpose of the Code\_Of\_Conduct.md is to let each and every online developer knows the guidelines when they contribute to other people's works or creating their personal projects. The guidelines include Mozilla Community Participation Guidelines and Developer Etiquette Guidelines.
 
 6. *Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.*
 
+    Three types of behaviors that violate the Mozilla Community Participation Guidelines are Violence and Threats of Violence, Personal Attacks, and Derogatory Language, which include threatening on other people's personal identifying information or insulting others or  saying harmful languages.
 
 7. *If a person working with the content of this repository runs into problems or has questions, what can they do?*
 
@@ -39,15 +42,19 @@ Download Link : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the
 
 2. *What is the license under which the extension is distributed?*
 
+    It is under All Rights Reserved license on the home page.
 
 3. *Can you find a code repository for this extension?*
+
     No.
 
 4. *Is the extension that you picked an open source project?*
+
     No.
 
 5. *Can you find information about how many different users contribute to this project? If so, specify how many.*
 
+    No, there is only one developer that is contribute to this project.
 
 ### Part 5
 
