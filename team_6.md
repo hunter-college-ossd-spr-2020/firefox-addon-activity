@@ -62,7 +62,7 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
 
 1. What is the homepage for the extension?
 
-   Click [here](https://www.online-convert.com/) for the homepage.
+   [online-convert.com](https://www.online-convert.com/)
    
 2. What is the license under which the extension is distributed?
 
@@ -70,19 +70,22 @@ Favorite [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/): [Online Co
    
 3. Can you find a code repository for this extension?
 
-   Click [here](https://github.com/onlineconvert) for the desired code repository. Note that there are several
-   repositories in different programming languages at the end of this link.
+   The github organization ([github.com/onlineconvert](https://github.com/onlineconvert)) contains many different language
+   SDK's and an example code repository, but the core library does not seem available. This github organization is also not 
+   linked on the homepage.
    
 4. Is the extension that you picked an open source project?
 
-   The aforementioned extension is an open source project, given the nature of the license.
+   Yes it is an open source project, given the nature of the license.
    
 5. Can you find information about how many different users contribute to this project? If so, specify how many.
 
-   The number of contributors varies from repository to repository. There are at most 10 contributors as of the most recent repository.
+   The number of contributors varies from repository to repository. 
+   There are at most 10 contributors as of the most recent repository, but most of the sdk repositories have only several 
+   contributors.
 
 # Part 5
 
 Look Ma, No Tutorial! 
 
-Team Extension Repo: [Blog Navigator](https://github.com/hunter-college-ossd-spr-2020/hunter-ossd-blog-navigator)
+Team Extension Repo: [Hunter OSSD Blog Navigator](https://github.com/hunter-college-ossd-spr-2020/hunter-ossd-blog-navigator)
