@@ -54,7 +54,7 @@ Download Link : __[LASER CAT](https://addons.mozilla.org/en-US/firefox/addon/the
 
 5. *Can you find information about how many different users contribute to this project? If so, specify how many.*
 
-    No, there is only one developer that is contribute to this project.
+    No, there is only one developer that contributes to this project.
 
 ### Part 5
 
