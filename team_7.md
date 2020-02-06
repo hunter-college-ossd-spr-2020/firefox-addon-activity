@@ -37,7 +37,7 @@ The purpose of this document is to require all those who participate in the open
 
 **7. If a person working with the content of this repository runs into problems or has questions, what can they do?**
 
-In the MDN webextensions-examples README file, it states that if you run into problems, then file a bug (and they give you a link where you can file the bug). And they also mentioned that if you needed help, then email the dev-addons mailing list, or to contact the WebExtensions team in the #webextensions channel on irc.mozilla.org. So I assume it is different per project, but I believe that the best practice would be to read the README, and, when it doubt, contact the owner.
+In the MDN webextensions-examples README file, it states that if you run into problems, then file a bug (and they give you a link where you can file the bug). And they also mentioned that if you needed help, then email the dev-addons mailing list, or to contact the WebExtensions team in the #webextensions channel on irc.mozilla.org. So I assume it is different per project, but I believe that the best practice would be to read the README, and, when in doubt, contact the owner.
 
 # Part 4 
 
@@ -51,7 +51,7 @@ uBlock Origin's supported platforms are: Chrome, Safari, Firefox, and MacOS. It 
 
 **2. What is the license under which the extension is distributed?**
 
-uBlock is under the GNU General Public License v3.0.
+uBlock Origin is under the GNU General Public License v3.0.
 
 **3. Can you find a code repository for this extension?**
 
